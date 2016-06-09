@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="16" tileheight="16" nextobjectid="7">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="80" height="30" tilewidth="16" tileheight="16" nextobjectid="7">
  <tileset firstgid="1" name="floor" tilewidth="16" tileheight="16">
   <image source="floor.png" width="96" height="48"/>
  </tileset>
  <tileset firstgid="19" name="acorn" tilewidth="16" tileheight="16">
   <image source="acorn.png" width="16" height="16"/>
  </tileset>
- <layer name="Tile Layer 1" width="40" height="30">
+ <layer name="Tile Layer 1" width="80" height="30">
   <data encoding="base64" compression="zlib">
-   eJztkTkOgEAMA8N9n/9/LE6XIkisIFoKjzRFKke2CCGEEEIIIYSQOwrY/jivg3PQL1/kLfAM+uVNnvZcwgrWsJHYnVPztOceDnCEk8TunJqnPa9wgzs8JHbnJ3lex7lvu7XXce7bbu11nPu2W198GAZD
+   eJztkzkOwzAMBJXbcQ47/v9jsyrcBERgCSalYgaYgmx2CzIlAAAAAAAAAAAAAAAAgP8c5LXzvMiOpVk3+XTqsldeZMfSrJdcnLrslRfZcWtWvtOjPMmzvCTfH6nJi+xYmpXvdJB3OcpH8v2RmrzIjqVZ+U7fcpKz/CTfH6nJi+y4Jcu60dZzLz2s+Xdn3WjreTR2vfVbf9m60dbzbOx667f+8hezJwx/
   </data>
  </layer>
  <objectgroup name="Collectables">
